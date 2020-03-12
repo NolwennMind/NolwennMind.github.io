@@ -38,7 +38,7 @@ Credits:
 			"Cherish" (ineedchemicalx.deviantart.com/art/Cherish-320041163)
 			"Different." (ineedchemicalx.deviantart.com/art/Different-353708988)
 			"History was made here" (ineedchemicalx.deviantart.com/art/History-was-made-here-366723812)
-			"People come and go and walk away" (ineedchemicalx.deviantart.com/art/People-come-and-go-and-walk-away-284244677)
+			"People come and go and walk away" (ineedchemicalx.deviantart.com/art/People-come-and-go-and-walk-away-284244677) 
 
 	Icons:
 		Font Awesome (fontawesome.io)
